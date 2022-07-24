@@ -3,11 +3,10 @@
 ## Task 1: Insertion Sort
 
 - Question 1: **[22,27,16,2,18,6]**
-
-1. Find the solution steps of the array given above.
-2. Find the Big-O notation.
-3. Find the time complexity for each case (Best, Average, Worst).
-4. Which case includes the number 18 in this array after the array is sorted?
+    - Find the solution steps of the array given above.
+    - Find the Big-O notation.
+    - Find the time complexity for each case (Best, Average, Worst).
+    - Which case includes the number 18 in this array after the array is sorted?
 
 [See the solution](./Insertion-Sort/README.md);
 
@@ -18,9 +17,8 @@
 ## Task 2: Merge Sort
 
 - Question 1: **[16,21,11,8,12,22]**
-
-1. Find the solution steps of the array given above.
-2. Find the Big-O notation.
+    - Find the solution steps of the array given above.
+    - Find the Big-O notation.
 
 [See the solution](./Merge-Sort/README.md);
 
